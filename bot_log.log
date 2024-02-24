@@ -634,3 +634,7 @@
 2024-02-23 15:38:12,210:ERROR:Error in processing submission 1ay30cc: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-23 15:38:12,327:ERROR:Error in processing submission 1ay2tbm: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-23 15:38:12,435:ERROR:Error in processing submission 1ay2rm7: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-24 13:36:36,055:INFO:Replied to post: Help with missing rusty sword/slime not registering (ID: 1ayum61)
+2024-02-24 13:36:36,191:ERROR:Error in processing submission 1aytj4s: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-24 13:36:36,288:ERROR:Error in processing submission 1aythgj: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-24 13:36:36,392:ERROR:Error in processing submission 1aysv8c: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
