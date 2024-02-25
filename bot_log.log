@@ -645,3 +645,9 @@
 2024-02-24 15:38:05,092:INFO:Replied to post: I got 263 starfruit wine should i sell or should i age them, and if i should age for how long (ID: 1ayw84d)
 2024-02-24 15:38:05,187:ERROR:Error in processing submission 1ayvr5s: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-24 15:38:05,272:ERROR:Error in processing submission 1ayvm93: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-25 13:36:11,865:INFO:Replied to post: I need some help for first time modding (ID: 1azmyhr)
+2024-02-25 13:36:11,968:ERROR:Error in processing submission 1azmcub: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-25 13:36:12,080:ERROR:Error in processing submission 1azm41n: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-25 13:36:12,175:ERROR:Error in processing submission 1azlf2q: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-25 13:36:12,291:ERROR:Error in processing submission 1azl0ei: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-25 13:36:12,385:ERROR:Error in processing submission 1azkp0j: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
