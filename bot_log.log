@@ -682,3 +682,7 @@
 2024-02-27 13:35:58,174:ERROR:Error in processing submission 1b1b79v: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-27 13:35:58,327:ERROR:Error in processing submission 1b1b76y: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-27 13:35:58,492:ERROR:Error in processing submission 1b1axkv: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-27 14:37:19,047:INFO:Replied to post: Can't seem to remove bushes in forest farm(mobile) (ID: 1b1dad5)
+2024-02-27 14:37:19,152:ERROR:Error in processing submission 1b1cn6r: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-27 14:37:19,265:ERROR:Error in processing submission 1b1c7l9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-27 14:37:19,364:ERROR:Error in processing submission 1b1bvda: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
