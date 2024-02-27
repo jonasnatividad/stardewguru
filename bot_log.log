@@ -686,3 +686,6 @@
 2024-02-27 14:37:19,152:ERROR:Error in processing submission 1b1cn6r: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-27 14:37:19,265:ERROR:Error in processing submission 1b1c7l9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-27 14:37:19,364:ERROR:Error in processing submission 1b1bvda: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-27 15:38:13,337:INFO:Replied to post: Do I buy it on PC ? (ID: 1b1ehww)
+2024-02-27 15:38:13,514:ERROR:Error in processing submission 1b1e876: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-27 15:38:13,684:ERROR:Error in processing submission 1b1dad5: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
