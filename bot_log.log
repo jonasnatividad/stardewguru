@@ -689,3 +689,5 @@
 2024-02-27 15:38:13,337:INFO:Replied to post: Do I buy it on PC ? (ID: 1b1ehww)
 2024-02-27 15:38:13,514:ERROR:Error in processing submission 1b1e876: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-02-27 15:38:13,684:ERROR:Error in processing submission 1b1dad5: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-02-28 13:35:59,485:INFO:Replied to post: Can you play stardew valley without the dating parts? (ID: 1b267nq)
+2024-02-28 13:35:59,586:ERROR:Error in processing submission 1b25vr8: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
