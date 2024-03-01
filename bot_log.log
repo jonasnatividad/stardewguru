@@ -715,3 +715,6 @@
 2024-03-01 14:37:05,895:ERROR:Error in processing submission 1b3v2r2: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-01 14:37:06,080:ERROR:Error in processing submission 1b3u3pp: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-01 14:37:06,231:ERROR:Error in processing submission 1b3ttte: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-01 15:38:16,449:INFO:Replied to post: With the amount of money I have should I get the movie theater? (ID: 1b3wsmv)
+2024-03-01 15:38:16,607:ERROR:Error in processing submission 1b3ws6t: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-01 15:38:16,758:ERROR:Error in processing submission 1b3v8rl: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
