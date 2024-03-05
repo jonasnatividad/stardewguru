@@ -760,3 +760,9 @@
 2024-03-05 13:35:52,688:INFO:Replied to post: Who want’s to co-op? (ID: 1b75bqj)
 2024-03-05 13:35:52,858:ERROR:Error in processing submission 1b74c02: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-05 13:35:53,014:ERROR:Error in processing submission 1b744wf: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-05 14:37:56,085:INFO:Replied to post: how to use bait on mobile? (ID: 1b75xxd)
+2024-03-05 14:37:56,181:ERROR:Error in processing submission 1b75wf1: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-05 14:37:56,258:ERROR:Error in processing submission 1b75mbz: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-05 14:37:56,370:ERROR:Error in processing submission 1b75l5n: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-05 14:37:56,451:ERROR:Error in processing submission 1b75fkm: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-05 14:37:56,536:ERROR:Error in processing submission 1b75erf: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
