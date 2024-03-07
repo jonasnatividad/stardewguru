@@ -778,3 +778,6 @@
 2024-03-06 15:37:59,055:INFO:Replied to post: How should I progress in my second year?  (ID: 1b82ih8)
 2024-03-06 15:37:59,138:ERROR:Error in processing submission 1b824tj: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-06 15:37:59,234:ERROR:Error in processing submission 1b820jg: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-07 13:36:36,880:INFO:Replied to post: does anyone happen to know what mods are being used in this screenshot? (ID: 1b8ulxb)
+2024-03-07 13:36:36,986:ERROR:Error in processing submission 1b8szin: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-07 13:36:37,077:ERROR:Error in processing submission 1b8rx2u: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
