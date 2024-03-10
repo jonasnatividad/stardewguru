@@ -821,3 +821,9 @@
 2024-03-10 14:37:55,730:ERROR:Error in processing submission 1bbbcqy: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-10 14:37:55,889:ERROR:Error in processing submission 1bbatjw: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-10 14:37:56,041:ERROR:Error in processing submission 1bbarz7: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-10 15:38:08,827:INFO:Replied to post: I keep getting an error message when I try to open stardew (ID: 1bbcwbq)
+2024-03-10 15:38:08,977:ERROR:Error in processing submission 1bbcj9g: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-10 15:38:09,133:ERROR:Error in processing submission 1bbchvh: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-10 15:38:09,303:ERROR:Error in processing submission 1bawoog: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-10 15:38:09,457:ERROR:Error in processing submission 1bbc69u: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-10 15:38:09,612:ERROR:Error in processing submission 1baxfx7: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
