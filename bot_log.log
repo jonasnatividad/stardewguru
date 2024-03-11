@@ -835,3 +835,6 @@
 2024-03-11 13:36:36,236:ERROR:Error in processing submission 1bc00fu: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-11 13:36:36,349:ERROR:Error in processing submission 1bbzxrm: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-11 13:36:36,425:ERROR:Error in processing submission 1bbzw6b: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-11 14:37:15,005:INFO:Replied to post: do i need to go out of my house every day to regenerate eggs/milk ect ? (ID: 1bc4ney)
+2024-03-11 14:37:15,104:ERROR:Error in processing submission 1bc32y6: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-11 14:37:15,204:ERROR:Error in processing submission 1bc2q9b: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
