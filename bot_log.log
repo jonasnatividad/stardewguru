@@ -847,3 +847,6 @@
 2024-03-12 13:36:44,905:ERROR:Error in processing submission 1bcw9es: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-12 13:36:45,059:ERROR:Error in processing submission 1bcvlpc: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-12 13:36:45,227:ERROR:Error in processing submission 1bcty3j: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-12 14:37:14,376:INFO:Replied to post: What to do in winter? (ID: 1bcy8zg)
+2024-03-12 14:37:14,475:ERROR:Error in processing submission 1bcxq85: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-12 14:37:14,569:ERROR:Error in processing submission 1bcxiwr: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
