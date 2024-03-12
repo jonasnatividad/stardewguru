@@ -850,3 +850,6 @@
 2024-03-12 14:37:14,376:INFO:Replied to post: What to do in winter? (ID: 1bcy8zg)
 2024-03-12 14:37:14,475:ERROR:Error in processing submission 1bcxq85: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-12 14:37:14,569:ERROR:Error in processing submission 1bcxiwr: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-12 15:40:26,427:INFO:Replied to post: What are the seven elementals? (ID: 1bczv4b)
+2024-03-12 15:40:26,613:ERROR:Error in processing submission 1bczr1y: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-12 15:40:26,776:ERROR:Error in processing submission 1bcytyz: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
