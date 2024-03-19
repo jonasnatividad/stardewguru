@@ -939,3 +939,7 @@
 2024-03-19 13:36:01,629:ERROR:Error in processing submission 1bik1ew: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-19 14:37:24,465:INFO:Replied to post: What's the most forageables you've seen at once? (ID: 1bilfql)
 2024-03-19 14:37:24,580:ERROR:Error in processing submission 1bildhn: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-19 15:38:07,619:INFO:Replied to post: will the update also be out or nintendo switch aswell? (ID: 1bin6ci)
+2024-03-19 15:38:07,736:ERROR:Error in processing submission 1bin5xp: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-19 15:38:07,846:ERROR:Error in processing submission 1bin36i: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-19 15:38:07,964:ERROR:Error in processing submission 1bin2s4: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
