@@ -968,3 +968,6 @@
 2024-03-21 14:37:08,555:ERROR:Error in processing submission 1bk7m2k: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-21 14:37:08,717:ERROR:Error in processing submission 1bk7lwd: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-21 14:37:08,935:ERROR:Error in processing submission 1bk7jge: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-21 15:39:35,139:INFO:Replied to post: How can I get the Tapper? (ID: 1bk9bud)
+2024-03-21 15:39:35,219:ERROR:Error in processing submission 1bk97gt: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-21 15:39:35,328:ERROR:Error in processing submission 1bk96r9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
