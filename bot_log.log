@@ -1000,3 +1000,6 @@
 2024-03-24 13:36:37,293:ERROR:Error in processing submission 1bmklge: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-24 13:36:37,443:ERROR:Error in processing submission 1bmkjis: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-24 13:36:37,599:ERROR:Error in processing submission 1bmkbog: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 14:37:10,747:INFO:Replied to post: My goat impregnated my cow? (ID: 1bmm7t9)
+2024-03-24 14:37:10,854:ERROR:Error in processing submission 1bmm77q: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 14:37:10,945:ERROR:Error in processing submission 1bmm4ts: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
