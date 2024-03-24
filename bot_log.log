@@ -994,3 +994,9 @@
 2024-03-23 15:38:05,485:ERROR:Error in processing submission 1bluwda: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-23 15:38:05,607:ERROR:Error in processing submission 1bluts3: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-23 15:38:05,719:ERROR:Error in processing submission 1bluno0: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 13:36:36,830:INFO:Replied to post: Is my logic horribly flawed? (ID: 1bmkv6o)
+2024-03-24 13:36:36,979:ERROR:Error in processing submission 1bmkst7: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 13:36:37,137:ERROR:Error in processing submission 1bmkskp: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 13:36:37,293:ERROR:Error in processing submission 1bmklge: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 13:36:37,443:ERROR:Error in processing submission 1bmkjis: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-24 13:36:37,599:ERROR:Error in processing submission 1bmkbog: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
