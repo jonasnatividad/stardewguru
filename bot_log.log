@@ -1014,3 +1014,8 @@
 2024-03-25 13:36:06,195:ERROR:Error in processing submission 1bndfb7: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-25 13:36:06,282:ERROR:Error in processing submission 1bndf7q: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-25 13:36:06,366:ERROR:Error in processing submission 1bnd3pg: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-25 14:37:13,204:INFO:Replied to post: Anyone have the sprites for the re-vamped artisan goods? (Spoiler?) (ID: 1bnf4ca)
+2024-03-25 14:37:13,312:ERROR:Error in processing submission 1bnf23h: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-25 14:37:13,435:ERROR:Error in processing submission 1bnexpn: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-25 14:37:13,552:ERROR:Error in processing submission 1bnew5b: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-25 14:37:13,665:ERROR:Error in processing submission 1bnev97: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
