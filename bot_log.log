@@ -1024,3 +1024,7 @@
 2024-03-25 15:38:50,011:ERROR:Error in processing submission 1bngfup: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-25 15:38:50,127:ERROR:Error in processing submission 1bng9vp: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-25 15:38:50,237:ERROR:Error in processing submission 1bng13u: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-26 13:35:57,706:INFO:Replied to post: Stuttering/Lagging on M1 Chip Mac? (ID: 1bo80rf)
+2024-03-26 13:35:57,807:ERROR:Error in processing submission 1bo80lt: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-26 13:35:57,909:ERROR:Error in processing submission 1bo7urs: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-26 13:35:58,017:ERROR:Error in processing submission 1bo76jg: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
