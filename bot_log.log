@@ -1041,3 +1041,7 @@
 2024-03-27 13:35:49,505:ERROR:Error in processing submission 1bp1inw: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-27 13:35:49,599:ERROR:Error in processing submission 1bp101n: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-27 13:35:49,685:ERROR:Error in processing submission 1bp0zgy: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-27 14:37:21,597:INFO:Replied to post: Secret opening screen? (ID: 1bozsr4)
+2024-03-27 14:37:21,683:ERROR:Error in processing submission 1bp2x1i: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-27 14:37:21,788:ERROR:Error in processing submission 1bp2vr6: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-27 14:37:21,879:ERROR:Error in processing submission 1bp2vfc: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
