@@ -1050,3 +1050,8 @@
 2024-03-28 13:35:54,517:ERROR:Error in processing submission 1bpupvl: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-28 13:35:54,680:ERROR:Error in processing submission 1bpujlq: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-28 13:35:54,832:ERROR:Error in processing submission 1bpm09b: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-28 14:37:19,514:INFO:Replied to post: I don't think this is supposed to happen! [Potential bug/spoiler? Marked just in case!] (ID: 1bpx3by)
+2024-03-28 14:37:19,618:ERROR:Error in processing submission 1bpx2ck: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-28 14:37:19,722:ERROR:Error in processing submission 1bpwzuv: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-28 14:37:19,822:ERROR:Error in processing submission 1bpwz0h: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-28 14:37:19,946:ERROR:Error in processing submission 1bpwmly: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
