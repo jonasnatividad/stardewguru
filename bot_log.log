@@ -1060,3 +1060,7 @@
 2024-03-28 15:38:38,302:ERROR:Error in processing submission 1bpyek0: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-28 15:38:38,408:ERROR:Error in processing submission 1bpqkrg: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-28 15:38:38,522:ERROR:Error in processing submission 1bpy93g: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-29 13:37:23,639:INFO:Replied to post: Anyone know why my mom's fruit tree saplings are smoking? (ID: 1bqp3yo)
+2024-03-29 13:37:23,736:ERROR:Error in processing submission 1bqouvd: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-29 13:37:23,818:ERROR:Error in processing submission 1bqoikj: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-29 13:37:23,900:ERROR:Error in processing submission 1bqoi82: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
