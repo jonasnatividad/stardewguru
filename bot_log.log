@@ -1074,3 +1074,8 @@
 2024-03-29 15:38:01,798:ERROR:Error in processing submission 1bqrxc5: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-29 15:38:01,887:ERROR:Error in processing submission 1bqrqgx: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-29 15:38:01,967:ERROR:Error in processing submission 1bqrjpn: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-30 13:35:49,031:INFO:Replied to post: How to use bait on iPad? (ID: 1brhzyv)
+2024-03-30 13:35:49,110:ERROR:Error in processing submission 1brhd8g: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-30 13:35:49,205:ERROR:Error in processing submission 1brh65a: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-30 13:35:49,314:ERROR:Error in processing submission 1brh0ky: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-30 13:35:49,391:ERROR:Error in processing submission 1brgy1a: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
