@@ -1086,3 +1086,9 @@
 2024-03-30 15:38:11,141:INFO:Replied to post: How on earth is it possible to get to Level 100 in the Skull Cavern?? (ID: 1brkjw0)
 2024-03-30 15:38:11,222:ERROR:Error in processing submission 1brkfeb: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-30 15:38:11,310:ERROR:Error in processing submission 1brk4m4: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-31 13:36:17,737:INFO:Replied to post: Are there any out of bounds glitches for PC? (ID: 1bsahc0)
+2024-03-31 13:36:17,828:ERROR:Error in processing submission 1bsah5h: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-31 13:36:17,919:ERROR:Error in processing submission 1bsaena: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-31 13:36:18,017:ERROR:Error in processing submission 1bsa9pi: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-31 13:36:18,104:ERROR:Error in processing submission 1bsa8x4: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-03-31 13:36:18,190:ERROR:Error in processing submission 1bsa7q6: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
