@@ -1102,3 +1102,8 @@
 2024-03-31 15:38:05,428:ERROR:Error in processing submission 1bscgei: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-31 15:38:05,516:ERROR:Error in processing submission 1bscfv5: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-03-31 15:38:05,619:ERROR:Error in processing submission 1bsccth: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-01 13:35:59,903:INFO:Replied to post: Help with the new update? (ID: 1bt3tb9)
+2024-04-01 13:36:00,043:ERROR:Error in processing submission 1bt3p3u: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-01 13:36:00,142:ERROR:Error in processing submission 1bt3hms: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-01 13:36:00,236:ERROR:Error in processing submission 1bt3ax0: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-01 13:36:00,350:ERROR:Error in processing submission 1bt394p: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
