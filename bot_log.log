@@ -1123,3 +1123,14 @@
 2024-04-02 13:35:49,979:ERROR:Error in processing submission 1btyhnx: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-02 14:37:14,489:INFO:Replied to post: How to Make my farm animals like me? (ID: 1bu0668)
 2024-04-02 14:37:14,709:ERROR:Error in processing submission 1btzoio: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-02 15:38:17,635:WARNING:Retrying due to 503 status: POST https://oauth.reddit.com/api/comment/
+2024-04-02 15:38:23,368:WARNING:Retrying due to 503 status: POST https://oauth.reddit.com/api/comment/
+2024-04-02 15:38:30,385:INFO:Replied to post: Does Anyone Know How To Activate This? [Maybe 1.6 Spoiler] (ID: 1bu1rjy)
+2024-04-02 15:38:37,050:WARNING:Retrying due to 503 status: POST https://oauth.reddit.com/api/comment/
+2024-04-02 15:38:39,576:ERROR:Error in processing submission 1bu1o6q: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-02 15:38:40,012:ERROR:Error in processing submission 1bu1es5: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-02 15:38:45,050:WARNING:Retrying due to 503 status: POST https://oauth.reddit.com/api/comment/
+2024-04-02 15:38:45,734:ERROR:Error in processing submission 1bu193u: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-02 15:38:49,398:WARNING:Retrying due to 503 status: POST https://oauth.reddit.com/api/comment/
+2024-04-02 15:38:50,472:ERROR:Error in processing submission 1bu0j9j: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-02 15:38:53,069:ERROR:Error in processing submission 1btp0eg: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
