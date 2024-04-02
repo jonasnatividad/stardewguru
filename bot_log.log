@@ -1121,3 +1121,5 @@
 2024-04-02 13:35:49,771:INFO:Replied to post: Stuck behind tree?? (ID: 1btytrv)
 2024-04-02 13:35:49,878:ERROR:Error in processing submission 1btynlk: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-02 13:35:49,979:ERROR:Error in processing submission 1btyhnx: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-02 14:37:14,489:INFO:Replied to post: How to Make my farm animals like me? (ID: 1bu0668)
+2024-04-02 14:37:14,709:ERROR:Error in processing submission 1btzoio: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
