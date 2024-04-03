@@ -1134,3 +1134,5 @@
 2024-04-02 15:38:49,398:WARNING:Retrying due to 503 status: POST https://oauth.reddit.com/api/comment/
 2024-04-02 15:38:50,472:ERROR:Error in processing submission 1bu0j9j: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-02 15:38:53,069:ERROR:Error in processing submission 1btp0eg: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-03 13:35:46,240:INFO:Replied to post: Help w Mods (ID: 1busmr0)
+2024-04-03 13:35:46,321:ERROR:Error in processing submission 1busc28: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
