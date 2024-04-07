@@ -1196,3 +1196,6 @@
 2024-04-06 15:38:13,258:ERROR:Error in processing submission 1bxdvja: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-06 15:38:13,361:ERROR:Error in processing submission 1bxdtm9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-06 15:38:13,443:ERROR:Error in processing submission 1bxdqsl: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-07 13:36:04,240:INFO:Replied to post: Is there a place that calendar day speedruns are recorded (not time played)? (ID: 1by4a03)
+2024-04-07 13:36:04,358:ERROR:Error in processing submission 1by48ux: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-07 13:36:04,478:ERROR:Error in processing submission 1by47d3: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
