@@ -1251,3 +1251,7 @@
 2024-04-11 13:36:22,604:INFO:Replied to post: What do i do with a dinosaur egg 😭😭 (ID: 1c1f6tu)
 2024-04-11 13:36:22,731:ERROR:Error in processing submission 1c1euk9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-11 13:36:22,853:ERROR:Error in processing submission 1c1erza: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-11 14:37:05,533:INFO:Replied to post: What's the best way to make money at my current progression? (ID: 1c1gnrh)
+2024-04-11 14:37:05,655:ERROR:Error in processing submission 1c1g8ov: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-11 14:37:05,772:ERROR:Error in processing submission 1c1g6r9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-11 14:37:05,912:ERROR:Error in processing submission 1c1g3ks: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
