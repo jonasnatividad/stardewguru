@@ -1256,3 +1256,8 @@
 2024-04-11 14:37:05,772:ERROR:Error in processing submission 1c1g6r9: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-11 14:37:05,912:ERROR:Error in processing submission 1c1g3ks: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-11 15:38:19,517:INFO:Replied to post: urgent help needed (i'm freaking out lol) (ID: 1c1hwsi)
+2024-04-12 13:35:56,848:INFO:Replied to post: Why are some villagers hated? (ID: 1c28ww7)
+2024-04-12 13:35:56,957:ERROR:Error in processing submission 1c28nsa: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-12 13:35:57,069:ERROR:Error in processing submission 1c28lku: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-12 13:35:57,180:ERROR:Error in processing submission 1c28f66: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-12 13:35:57,295:ERROR:Error in processing submission 1c28e0h: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
