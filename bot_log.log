@@ -1276,3 +1276,6 @@
 2024-04-13 14:37:28,592:ERROR:Error in processing submission 1c32jlc: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-13 14:37:28,745:ERROR:Error in processing submission 1c32ib4: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-13 14:37:28,925:ERROR:Error in processing submission 1c32dmt: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-13 15:37:57,943:INFO:Replied to post: Can someone clarify how the new craftable item in 1.6 works? (ID: 1c34mzc)
+2024-04-13 15:37:58,033:ERROR:Error in processing submission 1c34crf: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-13 15:37:58,128:ERROR:Error in processing submission 1c342hh: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
