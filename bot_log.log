@@ -1303,3 +1303,8 @@
 2024-04-15 14:37:24,057:INFO:Replied to post: Whats everyones best egg haul? (ID: 1c4nkdb)
 2024-04-15 14:37:24,149:ERROR:Error in processing submission 1c4nk9x: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-15 14:37:24,236:ERROR:Error in processing submission 1c4nbjv: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-15 15:37:56,449:INFO:Replied to post: GodzillaHunter51, what happened (ID: 1c4p9xc)
+2024-04-15 15:37:56,530:ERROR:Error in processing submission 1c4p6yy: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-15 15:37:56,614:ERROR:Error in processing submission 1c4p1jy: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-15 15:37:56,696:ERROR:Error in processing submission 1c4oo61: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-15 15:37:56,783:ERROR:Error in processing submission 1c4oo51: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
