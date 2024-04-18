@@ -1332,3 +1332,7 @@
 2024-04-17 15:38:09,959:INFO:Replied to post: Why robin no work!? (ID: 1c6czd6)
 2024-04-17 15:38:10,117:ERROR:Error in processing submission 1c6cbg2: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-17 15:38:10,276:ERROR:Error in processing submission 1c6c2mc: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-18 13:35:53,163:INFO:Replied to post: Does anyone know what those yellow stars are? (ID: 1c738cp)
+2024-04-18 13:35:53,328:ERROR:Error in processing submission 1c730qp: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-18 13:35:53,484:ERROR:Error in processing submission 1c72gcn: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-18 13:35:53,660:ERROR:Error in processing submission 1c725r4: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
