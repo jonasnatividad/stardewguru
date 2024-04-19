@@ -1346,3 +1346,8 @@
 2024-04-18 15:38:05,510:ERROR:Error in processing submission 1c763u3: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-18 15:38:05,613:ERROR:Error in processing submission 1c75qn1: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
 2024-04-18 15:38:05,714:ERROR:Error in processing submission 1c75gsq: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-19 13:35:48,185:INFO:Replied to post: The game crashes when I try to enter the mine floor 10 (ID: 1c7wpsz)
+2024-04-19 13:35:48,290:ERROR:Error in processing submission 1c7wds4: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-19 13:35:48,398:ERROR:Error in processing submission 1c7wd7d: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-19 13:35:48,511:ERROR:Error in processing submission 1c7w6v0: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2024-04-19 13:35:48,616:ERROR:Error in processing submission 1c7w5ho: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
