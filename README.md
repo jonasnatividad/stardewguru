@@ -29,13 +29,3 @@ To explore the initial version locally, follow these steps:
 ```bash
 git clone git@github.com:yourusername/stardewguru.git
 ```
-
-## Dependencies
-Ensure you have the following dependencies installed:
-
-Python 3.7+
-OpenAI API client (openai)
-PRAW (Python Reddit API Wrapper)
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
