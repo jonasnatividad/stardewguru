@@ -24,9 +24,9 @@ Feel free to reach out if you have any questions or need assistance with running
 ## Installation
 To explore the initial version locally, follow these steps:
 
-sh
-Copy code
+```bash
 git clone git@github.com:yourusername/stardewguru.git
+```
 
 ## Dependencies
 Ensure you have the following dependencies installed:
